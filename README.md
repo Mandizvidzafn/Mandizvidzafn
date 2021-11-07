@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mandizvidzafn
 - 👀 I’m interested in Cybersecurity and Software engineering 
-- 🌱 I’m currently learning Pentesting
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Pen Tester
+- 💞️ I’m looking to collaborate on some CTF's if you are interested
 - 📫 How to reach me @ncebamandizvidza@gmail.com
 
 <!---
