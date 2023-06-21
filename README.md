@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nceba Mandizvidza
+👋 Hi, I’m Nceba Mandizvidza
 - 👀 I’m interested in Cybersecurity and Software engineering 
 - 🌱 I’m currently a Fullstack Software Engineer
-- 💞️ I’m looking to collaborate on some CTF's if you are interested
+- 💞️ I’m looking to collaborate on some CTF's and projects if you are interested
 - 📫 How to reach me @ncebamandizvidza@gmail.com
 
 <!---
