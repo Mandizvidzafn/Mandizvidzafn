@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Software engineering 
 - 🌱 I’m currently a Fullstack Software Engineer
 - 💞️ I’m looking to collaborate on some CTF's and projects if you are interested
-- 📫 Yo can reach me @ncebamandizvidza@gmail.com
+- 📫 You can reach me @ncebamandizvidza@gmail.com
 
 <!---
 Mandizvidzafn/Mandizvidzafn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
